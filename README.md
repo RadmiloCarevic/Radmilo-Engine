@@ -1,2 +1,3 @@
 # Radmilo's Engine
-This is an engine. The end.
+
+Yea, I will soon release a quick documentation for an engine.
