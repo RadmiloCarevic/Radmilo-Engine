@@ -1,4 +1,3 @@
-# Radmilo's Engine
+# Documentation
 
-This game engine is in really early stages. It might take a while to finish.
-Patience is a key.
+This engine does not have a documentation as of now. BUT, watch out, bcuz there will be one real soon.
